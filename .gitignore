@@ -1,2 +1,14 @@
 
 .DS_Store
+android/config_live.json
+android/config_test.json
+application/config_live.json
+application/config_test.json
+config.json
+config_1.0.4.json
+config_local.json
+html/config_1.0.4.json
+html/config_real.json
+html/config_test.json
+ios/config_live.json
+ios/config_test.json
